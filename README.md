@@ -20,4 +20,5 @@ Copy the theme.lua file into `~/.config/tym/`
 cp tym/theme.lua ~/.config/tym/theme.lua
 ```
 ### Showcase
-![image](https://user-images.githubusercontent.com/88919270/187816531-c9f02c93-cd50-4579-ae89-48b32dd494d7.png)
+![image](https://user-images.githubusercontent.com/88919270/187816870-89141fc3-abd9-43ce-be28-d30149181f81.png)
+
